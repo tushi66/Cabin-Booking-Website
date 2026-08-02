@@ -71,9 +71,8 @@ images/homepage.png
 
 Then display them:
 
-```md
 ![Homepage](images/homepage.png)
-```
+
 
 ## 🌐 Live Demo
 
