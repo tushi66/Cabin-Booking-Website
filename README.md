@@ -67,17 +67,7 @@ Open `index.html` in your browser.
 
 ## 🌐 Live Demo
 
-Deploy using one of these services:
-
-- GitHub Pages
-- Netlify
-- Vercel
-
-After deployment, add your live link here:
-
-```
-https://your-live-demo-link.com
-```
+https://cabin-booking-website-blue.vercel.app/
 
 ## 📋 Future Improvements
 
