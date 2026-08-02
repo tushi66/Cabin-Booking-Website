@@ -61,15 +61,6 @@ Open `index.html` in your browser.
 
 ## 📸 Screenshot
 
-Add screenshots inside the `images` folder.
-
-Example:
-
-```
-images/homepage.png
-```
-
-Then display them:
 
 ![Homepage](images/homepage.png)
 
